@@ -1,7 +1,7 @@
 # Portfolio-Wordpress
 Personnal portfolio with Wordpress
 
-Plugins : 
+Own theme + Plugins : 
 - Custom Field Suite
 - Search Everything
-- Menu editor
+- Menu Editor
