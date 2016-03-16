@@ -2,7 +2,7 @@
 	SCRIPT 
 -------------------------------------- */
 
-var SITE_URL = 'http://localhost:8888/portfolio-wordpress/';
+var SITE_URL = 'http://localhost/portfolio-wordpress/';
 
 $(function(){
 	
